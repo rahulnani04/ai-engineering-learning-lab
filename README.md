@@ -4,10 +4,10 @@ Practical implementations of Python, FastAPI, Machine Learning, RAG, Agentic AI,
 A **hands-on learning portfolio**, not a representation of proprietary Fifth Third Bank/HCA systems. Every example uses synthetic data and should be described as an independent learning project.
 
 ## The method
-For each topic: (1) problem statement, (2) concepts, (3) architecture, (4) implement, (5) tests and failure cases, (6) technical trade-offs, (7) explanation in your own words, (8) publish with a README.
+For each topic: (1) problem statement, (2) concepts, (3) architecture, (4) implementation, (5) tests and failure cases, (6) technical trade-offs, (7) explanation in your own words, (8)  README.
 
 ## First runnable project: Banking Inquiry API
-A synthetic banking operations API that validates questions, selects an inquiry category and produces safe mock results. It illustrates Python functions/classes, type hints, decorators (FastAPI), context managers (tests), async endpoints, dependency injection, HTTP errors, middleware, logging, unit tests and idempotency. **No real bank data, model calls or external credentials.**
+A synthetic banking operations API that validates questions, selects an inquiry category, and produces safe mock results. It illustrates Python functions/classes, type hints, decorators (FastAPI), context managers (tests), async endpoints, dependency injection, HTTP errors, middleware, logging, unit tests and idempotency. **No real bank data, model calls or external credentials.**
 
 ### Quick start
 ```bash
