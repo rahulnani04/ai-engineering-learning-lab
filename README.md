@@ -1,4 +1,5 @@
 # AI Engineering Learning Lab
+Practical implementations of Python, FastAPI, Machine Learning, RAG, Agentic AI, MCP, AWS, Azure, GCP, MLOps, system architecture, and production engineering.
 
 A **hands-on learning portfolio**, not a representation of proprietary Fifth Third Bank/HCA systems. Every example uses synthetic data and should be described as an independent learning project.
 
